@@ -1,0 +1,78 @@
+05/06/2018 10:56:37	This log contains information about the import schema operation into project 'iRoncadin' on computer 'EDP06' by user 'efabris'.
+05/06/2018 10:56:37	Import of database schema has started.
+05/06/2018 10:56:45	Gathering database options
+05/06/2018 10:56:45	Gathering users
+05/06/2018 10:56:45	Gathering roles
+05/06/2018 10:56:45	Gathering application roles
+05/06/2018 10:56:45	Gathering role memberships
+05/06/2018 10:56:45	Gathering filegroups
+05/06/2018 10:56:45	Gathering full-text catalogs
+05/06/2018 10:56:45	Gathering assemblies
+05/06/2018 10:56:45	Gathering certificates
+05/06/2018 10:56:45	Gathering asymmetric keys
+05/06/2018 10:56:45	Gathering symmetric keys
+05/06/2018 10:56:45	Gathering encrypted symmetric keys
+05/06/2018 10:56:45	Gathering schemas
+05/06/2018 10:56:45	Gathering XML schema collections
+05/06/2018 10:56:45	Gathering user-defined data types
+05/06/2018 10:56:45	Gathering user-defined types
+05/06/2018 10:56:45	Gathering table types
+05/06/2018 10:56:45	Gathering unique keys for table types
+05/06/2018 10:56:45	Gathering primary keys for table types
+05/06/2018 10:56:45	Gathering indexes for table types
+05/06/2018 10:56:45	Gathering check constraints for table types
+05/06/2018 10:56:45	Gathering default constraints for table types
+05/06/2018 10:56:45	Gathering partition functions
+05/06/2018 10:56:45	Gathering partition schemes
+05/06/2018 10:56:45	Gathering functions
+05/06/2018 10:56:45	Gathering encrypted functions
+05/06/2018 10:56:45	Gathering aggregates
+05/06/2018 10:56:45	Gathering procedures
+05/06/2018 10:56:45	Gathering encrypted procedures
+05/06/2018 10:56:45	Gathering tables
+05/06/2018 10:56:45	Gathering primary keys
+05/06/2018 10:56:45	Gathering unique constraints
+05/06/2018 10:56:45	Gathering foreign keys
+05/06/2018 10:56:45	Gathering default constraints
+05/06/2018 10:56:45	Gathering check constraints
+05/06/2018 10:56:45	Gathering views
+05/06/2018 10:56:45	Gathering encrypted views
+05/06/2018 10:56:45	Gathering indexes
+05/06/2018 10:56:45	Gathering statistics
+05/06/2018 10:56:45	Gathering full-text index stoplists
+05/06/2018 10:56:45	Gathering search property lists
+05/06/2018 10:56:45	Gathering search properties
+05/06/2018 10:56:45	Gathering full-text indexes
+05/06/2018 10:56:45	Gathering column store indexes
+05/06/2018 10:56:45	Gathering spatial indexes
+05/06/2018 10:56:45	Gathering XML indexes
+05/06/2018 10:56:45	Gathering Selective XML indexes
+05/06/2018 10:56:45	Gathering encrypted triggers
+05/06/2018 10:56:45	Gathering triggers
+05/06/2018 10:56:45	Gathering encrypted and clr ddl triggers
+05/06/2018 10:56:45	Gathering ddl triggers
+05/06/2018 10:56:45	Gathering synonyms
+05/06/2018 10:56:45	Gathering defaults
+05/06/2018 10:56:45	Gathering data constraint uddt bindings
+05/06/2018 10:56:45	Gathering rules
+05/06/2018 10:56:45	Gathering data constraint uddt bindings
+05/06/2018 10:56:45	Gathering message types
+05/06/2018 10:56:45	Gathering queues
+05/06/2018 10:56:45	Gathering contracts
+05/06/2018 10:56:45	Gathering services
+05/06/2018 10:56:45	Gathering event notifications
+05/06/2018 10:56:45	Gathering remote service bindings
+05/06/2018 10:56:45	Gathering broker priorities
+05/06/2018 10:56:45	Gathering signatures
+05/06/2018 10:56:45	Gathering data compression options
+05/06/2018 10:56:45	Gathering sequence types
+05/06/2018 10:56:45	Gathering database permissions
+05/06/2018 10:56:45	Gathering extended properties
+05/06/2018 10:56:46	Gathering credentials
+05/06/2018 10:56:46	Gathering logins
+05/06/2018 10:56:46	Gathering server audits
+05/06/2018 10:56:47	Scanning project for duplicate elements
+05/06/2018 10:56:47	Finished duplicate element processing
+05/06/2018 10:56:48	Finished importing database.
+05/06/2018 10:56:48	A summary of the import was saved to the following location: E:\Sviluppo\SQLServer\iRoncadin\iRoncadin\Import Schema Logs\iRoncadin_20180605085637.log
+05/06/2018 10:56:48	Click Finish to continue...

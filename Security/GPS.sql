@@ -1,0 +1,2 @@
+﻿CREATE USER [GPS] FOR LOGIN [GPS];
+
